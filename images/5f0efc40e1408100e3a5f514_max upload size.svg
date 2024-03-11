@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="63.943" viewBox="0 0 98 63.943">
+  <g id="max_upload_size" data-name="max upload size" transform="translate(-354 -46.057)">
+    <text id="Max._10_MB" data-name="Max. 10 MB" transform="translate(403 106)" fill="#fff" font-size="18" font-family="SpaceGrotesk-Medium, Space Grotesk" font-weight="500" opacity="0.3"><tspan x="-48.582" y="0">Max. 10 MB</tspan></text>
+    <g id="upload" transform="translate(385 45.057)">
+      <path id="Path_2388" data-name="Path 2388" d="M12,4V27.07" transform="translate(6.197 0.775)" fill="none" stroke="#606168" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_2389" data-name="Path 2389" d="M7,11.873,15.873,3l8.873,8.873" transform="translate(2.324 0)" fill="none" stroke="#606168" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_2390" data-name="Path 2390" d="M32.394,21H4" transform="translate(0 13.943)" fill="none" stroke="#606168" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+body {
+	background-color: #0D0F19;
+	color: #FFF;
+	font-family: Arial, sans-serif;
+}
+
+.account-id-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.account-id-container .account-id-box {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0 20px;
+	background-color: #1A1E29;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.account-id-container .account-id-box .account-id {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.account-id-container .account-id-box .account-id-value {
+	font-size: 2em;
+	font-weight: bold;
+}
